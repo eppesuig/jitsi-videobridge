@@ -3,7 +3,7 @@ Section: net
 Priority: extra
 Maintainer: Jitsi Team <dev@jitsi.org>
 Uploaders: Emil Ivov <emcho@jitsi.org>, Damian Minkov <damencho@jitsi.org>
-Build-Depends: debhelper (>= 9), dh-systemd, java17-sdk-headless | openjdk-17-jdk | openjdk-21-jdk, maven
+Build-Depends: debhelper (>= 9), dh-systemd, java17-sdk-headless | openjdk-17-jdk | java21-sdk-headless | openjdk-21-jdk, maven
 Standards-Version: 3.9.3
 Homepage: https://jitsi.org/videobridge
 
